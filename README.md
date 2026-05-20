@@ -279,7 +279,6 @@ hedeflenmiştir.
 
 | Kriter | Açıklama |
 |---|---|
-| Takım | Bireysel proje |
 | Dil Modeli Kullanımı | ChatGPT ve Gemini kullanılmıştır |
 | Teknik Değerlendirme | Component tabanlı yapı ve temiz UI mimarisi uygulanmıştır |
 | Dokümantasyon | Detaylı README dokümantasyonu hazırlanmıştır |
@@ -376,29 +375,13 @@ için kullanılabilecek altyapılar olarak değerlendirilmiştir.
 ⬜ Mobil Uygulama
 ```
 
----
-
-# 🎥 Proje Sunumu
-
-Proje kapsamında:
-
-- UI/UX sunumu
-- Sistem mimarisi anlatımı
-- Full-stack çalışma yapısı
-- Özellik tanıtımları
-
-hazırlanmıştır.
-
----
-
 👩‍💻 Geliştirici
 
 Ayşe Rümeysa Özçelik
 Melike Bayer
 
-
 ---
 
 # 📄 Lisans
 
-Bu proje eğitim amaçlı geliştirilmiştir.
+Bu proje eğitim amaçlı geliştirilmiş olup gelecekte gerçek bir uygulamaya dönüştürülmesi hedeflenmektedir.
