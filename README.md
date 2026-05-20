@@ -283,8 +283,6 @@ hedeflenmiştir.
 | Teknik Değerlendirme | Component tabanlı yapı ve temiz UI mimarisi uygulanmıştır |
 | Dokümantasyon | Detaylı README dokümantasyonu hazırlanmıştır |
 | Veritabanı Kullanımı | PostgreSQL kullanılmıştır |
-| Sunum | Proje sunumu hazırlanmıştır |
-| Teslim Tarihi | Final teslimine uygun hazırlanmıştır |
 
 ---
 
