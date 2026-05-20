@@ -1,74 +1,109 @@
-<<<<<<< HEAD
-# React + Vite
+🎨 ModaMatch Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ModaMatch frontend tarafı, kullanıcıların terziler, butik işletmeleri ve moda tasarımcılarıyla etkileşim kurmasını sağlayan modern ve responsive kullanıcı arayüzünü içermektedir.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-<div align="center">
-
-# ModaMatch 👗✨
-
-### AI-Powered Tailor & Boutique Matching Platform
-
-</div>
+Bu bölüm React.js ve Vite kullanılarak geliştirilmiştir.
 
 ---
 
-## 📌 Proje Açıklaması
+# 🚀 Özellikler
 
-ModaMatch, kullanıcıların yüklediği kıyafet görsellerini yapay zekâ ile analiz ederek en uygun terzi ve butiklerle eşleştirilmesini sağlayan web ve mobil tabanlı bir moda platformudur.
-
----
-
-## 🚀 Özellikler
-
-- Yapay zekâ destekli kıyafet analizi
-- Terzi & butik öneri sistemi
-- Konuma göre listeleme
-- Kıyafet görseli yükleme
-- Mesajlaşma sistemi
-- Filtreleme sistemi
-- Stil önerileri
+- Kullanıcı giriş ve kayıt ekranları
+- Responsive ana sayfa tasarımı
+- Terzi listeleme sistemi
+- Terzi detay ekranları
+- Favoriler sistemi
+- Mesajlaşma arayüzü
+- Randevu ekranları
+- Modern UI/UX tasarımı
 
 ---
 
-## 🛠 Kullanılan Teknolojiler
+# 🛠️ Kullanılan Teknolojiler
 
-- React
-- React Native
-- Node.js
-- Express.js
-- PostgreSQL
-- Gemini API
-
----
-
-## 👥 Takım Üyeleri
-- Melike Bayer
-- Ayşe Rümeysa Özçelik
+| Teknoloji | Açıklama |
+|---|---|
+| React.js | Component tabanlı frontend geliştirme |
+| Vite | Hızlı frontend geliştirme ortamı |
+| CSS3 | Responsive ve modern tasarım |
+| React Router DOM | Sayfa yönlendirme sistemi |
 
 ---
 
-## 📂 Proje Yapısı
+# 📂 Klasör Yapısı
+
+```txt
+modamatch-frontend
+ ├── public
+ ├── src
+ │    ├── components
+ │    ├── pages
+ │    ├── styles
+ │    └── assets
+ ├── package.json
+ └── vite.config.js
+```
+
+---
+
+# ⚙️ Kurulum
+
+## Paketleri yükleme
 
 ```bash
-ModaMatch/
-│
-├── backend/
-├── frontend/
-├── mobile/
-├── docs/
-└── README.md
->>>>>>> c506dc533c4f2c229562c4a38244fce6794f1318
+npm install
+```
+
+---
+
+## Projeyi çalıştırma
+
+```bash
+npm run dev
+```
+
+---
+
+Frontend çalışacağı adres:
+
+```txt
+http://localhost:5173
+```
+
+---
+
+# 📱 Responsive Tasarım
+
+Frontend yapısı:
+
+✅ Mobil uyumlu  
+✅ Tablet uyumlu  
+✅ Desktop uyumlu  
+
+şekilde geliştirilmiştir.
+
+---
+
+# 🎨 UI/UX Tasarım Yaklaşımı
+
+Tasarım sürecinde:
+
+- Modern görünüm
+- Kullanıcı dostu yapı
+- Moda odaklı renk paleti
+- Responsive yapı
+- Basit navigasyon
+
+hedeflenmiştir.
+
+
+👩‍💻 Geliştirici
+
+Ayşe Rümeysa Özçelik
+
+Melike Bayer
+
+
+# 📄 Lisans
+
+Bu proje eğitim amaçlı geliştirilmiş olup gelecekte gerçek bir uygulamaya dönüştürülmesi hedeflenmektedir.
