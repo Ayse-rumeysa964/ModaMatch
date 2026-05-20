@@ -329,24 +329,15 @@ eklenmesi planlanmaktadır.
 
 ---
 
-# 🧠 Yapay Zeka ve RAG Araştırmaları
+🧠 Yapay Zeka Araştırmaları
 
 Proje geliştirme sürecinde:
 
-- Yapay zeka destekli sistemler
-- öneri sistemleri
+- yapay zeka destekli öneri sistemleri
 - kullanıcı eşleştirme sistemleri
 - modern AI mimarileri
 
 üzerine araştırmalar yapılmıştır.
-
-İncelenen kavramlar:
-
-| Kavram | Açıklama |
-|---|---|
-| Classical RAG | Anlamsal benzerlik tabanlı retrieval sistemi |
-| Graph RAG | İlişkisel veri yapısı ile retrieval sistemi |
-| Knowledge Graph | Veri ilişkilerini düğümler üzerinden modelleme sistemi |
 
 Bu sistemler gelecekte:
 
@@ -354,9 +345,7 @@ Bu sistemler gelecekte:
 - kişisel stil analizi
 - moda asistanı sistemleri
 
-için kullanılabilecek altyapılar olarak değerlendirilmiştir.
-
----
+gibi özelliklerde kullanılabilecek altyapılar olarak değerlendirilmiştir.
 
 # 🚀 Geliştirme Yol Haritası
 
