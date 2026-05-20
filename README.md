@@ -375,10 +375,10 @@ için kullanılabilecek altyapılar olarak değerlendirilmiştir.
 ⬜ Mobil Uygulama
 ```
 
-👩‍💻 Geliştirici
+👩‍💻 Geliştiriciler
 
 Ayşe Rümeysa Özçelik
-Melike Bayer
+ Melike Bayer
 
 ---
 
