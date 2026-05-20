@@ -159,7 +159,7 @@ eklenmesi planlanmaktadır.
 👩‍💻 Geliştirici
 
 Ayşe Rümeysa Özçelik
-Meelike Bayer
+Melike Bayer
 ---
 
 # 📄 Lisans
