@@ -1,0 +1,154 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:Arial, sans-serif;
+}
+
+.analysis-page{
+  width:100%;
+  min-height:100vh;
+
+  background:#f7f7f7;
+
+  padding:50px;
+}
+
+/* HEADER */
+
+.analysis-header{
+  text-align:center;
+}
+
+.analysis-header h1{
+  font-size:58px;
+  color:#222;
+}
+
+.analysis-header p{
+  margin-top:20px;
+
+  font-size:24px;
+
+  color:#666;
+}
+
+/* CONTENT */
+
+.analysis-content{
+  margin-top:50px;
+
+  display:flex;
+  gap:40px;
+}
+
+/* LEFT */
+
+.upload-card{
+  width:45%;
+
+  background:white;
+
+  border-radius:35px;
+
+  padding:35px;
+
+  box-shadow:0 10px 30px rgba(0,0,0,0.08);
+
+  text-align:center;
+}
+
+.upload-card img{
+  width:100%;
+  height:500px;
+
+  object-fit:contain;
+
+  background:#f3f3f3;
+
+  border-radius:25px;
+}
+
+.upload-card h2{
+  margin-top:30px;
+
+  font-size:42px;
+}
+
+.upload-card p{
+  margin-top:20px;
+
+  font-size:22px;
+
+  color:#666;
+
+  line-height:1.6;
+}
+
+.upload-card button{
+  margin-top:35px;
+
+  width:240px;
+  height:70px;
+
+  border:none;
+  border-radius:18px;
+
+  background:linear-gradient(
+    135deg,
+    #ff2d6f,
+    #ff6b9d
+  );
+
+  color:white;
+
+  font-size:22px;
+  font-weight:bold;
+
+  cursor:pointer;
+}
+
+/* RIGHT */
+
+.result-card{
+  width:55%;
+
+  background:white;
+
+  border-radius:35px;
+
+  padding:40px;
+
+  box-shadow:0 10px 30px rgba(0,0,0,0.08);
+}
+
+.result-card h2{
+  font-size:46px;
+  margin-bottom:30px;
+}
+
+/* RESULT BOX */
+
+.result-box{
+  background:#fff4f8;
+
+  border-radius:25px;
+
+  padding:30px;
+
+  margin-bottom:25px;
+}
+
+.result-box h3{
+  font-size:28px;
+}
+
+.result-box p{
+  margin-top:15px;
+
+  font-size:21px;
+
+  color:#555;
+
+  line-height:1.6;
+}

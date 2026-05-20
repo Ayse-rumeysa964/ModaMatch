@@ -1,0 +1,211 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+  font-family:Arial, sans-serif;
+}
+
+body{
+  overflow-x:hidden;
+  background:#fdf7f5;
+}
+
+/* ESKİ REGISTER CSS'LERİNİ KAPAT */
+
+.container,
+.card,
+.form,
+.input{
+  display:none !important;
+}
+
+/* PAGE */
+
+.register-page{
+  width:100%;
+  min-height:100vh;
+
+  background:#fdf7f5;
+
+  display:flex;
+  justify-content:center;
+  align-items:flex-start;
+
+  padding:50px 0;
+
+  overflow:hidden;
+}
+
+/* CARD */
+
+.register-card{
+  width:700px;
+
+  background:white;
+
+  border-radius:40px;
+
+  padding:40px;
+
+  box-shadow:0 10px 30px rgba(0,0,0,0.08);
+}
+
+/* IMAGE */
+
+.welcome-image{
+  width:100%;
+
+  border-radius:30px;
+
+  margin-bottom:35px;
+}
+
+/* INPUT */
+
+.input-box{
+  margin-bottom:22px;
+}
+
+.input-box input{
+  width:100%;
+  height:75px;
+
+  border:none;
+  outline:none;
+
+  border-radius:22px;
+
+  background:#faf7f7;
+
+  padding:0 25px;
+
+  font-size:22px;
+
+  box-shadow:0 3px 10px rgba(0,0,0,0.04);
+}
+
+/* KVKK */
+
+.kvkk{
+  display:flex;
+  align-items:center;
+
+  gap:15px;
+
+  margin-top:10px;
+}
+
+.kvkk input{
+  width:22px;
+  height:22px;
+}
+
+.kvkk p{
+  color:#cc6b85;
+
+  font-size:18px;
+}
+
+/* BUTTON */
+
+.register-btn{
+  width:100%;
+  height:75px;
+
+  border:none;
+
+  border-radius:25px;
+
+  margin-top:30px;
+
+  background:linear-gradient(
+    135deg,
+    #ff9db7,
+    #ff6f96
+  );
+
+  color:white;
+
+  font-size:30px;
+  font-weight:bold;
+
+  cursor:pointer;
+
+  box-shadow:0 10px 20px rgba(255,111,150,0.3);
+
+  transition:0.3s;
+}
+
+.register-btn:hover{
+  transform:translateY(-4px);
+}
+
+/* DIVIDER */
+
+.divider{
+  text-align:center;
+
+  margin:30px 0;
+
+  color:#888;
+
+  font-size:22px;
+}
+
+/* GOOGLE */
+
+.google-btn{
+  width:100%;
+  height:75px;
+
+  border:2px solid #d6a86d;
+
+  border-radius:25px;
+
+  background:white;
+
+  font-size:24px;
+  font-weight:bold;
+
+  color:#a76b1f;
+
+  display:flex;
+  align-items:center;
+  justify-content:center;
+
+  gap:18px;
+
+  cursor:pointer;
+
+  transition:0.3s;
+}
+
+.google-btn:hover{
+  transform:translateY(-4px);
+}
+
+.google-btn img{
+  width:35px;
+}
+
+/* LOGIN */
+
+.login-text{
+  margin-top:35px;
+
+  text-align:center;
+
+  font-size:22px;
+
+  color:#666;
+}
+
+.login-text span{
+  margin-left:10px;
+
+  color:#ff6f96;
+
+  font-weight:bold;
+
+  cursor:pointer;
+}

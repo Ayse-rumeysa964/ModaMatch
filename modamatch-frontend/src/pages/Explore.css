@@ -1,0 +1,54 @@
+.explore-page{
+
+  width:100%;
+  min-height:100vh;
+
+  background:#f7f7f7;
+
+  padding:50px;
+}
+
+.explore-page h1{
+
+  font-size:45px;
+
+  margin-bottom:40px;
+
+  text-align:center;
+}
+
+.orders-container{
+
+  display:flex;
+
+  flex-direction:column;
+
+  gap:25px;
+}
+
+.order-card{
+
+  background:white;
+
+  padding:30px;
+
+  border-radius:25px;
+
+  box-shadow:0 5px 15px rgba(0,0,0,0.05);
+}
+
+.order-card h2{
+
+  font-size:30px;
+
+  color:#ff2d6f;
+}
+
+.order-card p{
+
+  margin-top:18px;
+
+  font-size:20px;
+
+  color:#555;
+}
