@@ -42,18 +42,15 @@ PostgreSQL Database
 
 ---
 
-# 📂 Klasör Yapısı
+📂 Klasör Yapısı
 
 ```txt
 modamatch-backend
- ├── database
- ├── routes
- ├── controllers
- ├── models
- ├── server.js
- └── package.json
+ ├── node_modules
+ ├── package-lock.json
+ ├── package.json
+ └── server.js
 ```
-
 ---
 
 # ⚙️ Kurulum
