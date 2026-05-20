@@ -1,5 +1,5 @@
 ✨ ModaMatch
- Terzi ve Moda Platformu
+Terzi ve Moda Platformu
 
 👗 “Tarzını Tasarla, En Doğru Ustayla Buluş.” ✂️
 
@@ -14,7 +14,7 @@ Projenin temel amacı:
 - Yerel terzileri dijital ortama taşımak
 - Kullanıcıların kendilerine uygun terzilere ulaşmasını kolaylaştırmak
 - Modern ve kullanıcı dostu bir moda deneyimi sunmak
-- Yapay zeka destekli sistemler için altyapı oluşturmak
+- Gelecekte yapay zeka destekli sistemler için altyapı oluşturmak
 
 Kullanıcılar sistem üzerinden:
 
@@ -41,7 +41,7 @@ amaçlamaktadır.
 
 ---
 
-# 🧠 Proje Fikri ve Tasarım Süreci
+🧠 Proje Fikri ve Tasarım Süreci
 
 ModaMatch fikri:
 
@@ -52,17 +52,17 @@ sloganı ile ortaya çıkmıştır.
 Projenin ilk tasarım sürecinde aşağıdaki sistemler planlanmıştır:
 
 - Yakındaki terziler sistemi
-- AI destekli moda önerileri
+- AI destekli moda önerileri planı
 - Kullanıcı-terzi mesajlaşması
-- Akıllı randevu sistemi
-- Fotoğraf ile kıyafet analizi
+- Randevu sistemi
+- Fotoğraf ile kıyafet analizi fikri
 - Kişisel stil önerileri
 
 Bazı gelişmiş sistemler UI/UX olarak tasarlanmış ancak proje süresi nedeniyle tam entegre edilememiştir.
 
 ---
 
-# 🚀 Gerçekleştirilen Özellikler
+🚀 Gerçekleştirilen Özellikler
 
 | Özellik | Açıklama |
 |---|---|
@@ -75,7 +75,7 @@ Bazı gelişmiş sistemler UI/UX olarak tasarlanmış ancak proje süresi nedeni
 
 ---
 
-# ⚠️ Planlanan Ancak Tamamlanamayan Özellikler
+⚠️ Planlanan Ancak Tamamlanamayan Özellikler
 
 | Planlanan Özellik | Durum |
 |---|---|
@@ -90,7 +90,7 @@ Bazı gelişmiş sistemler UI/UX olarak tasarlanmış ancak proje süresi nedeni
 
 ---
 
-# 🛠️ Kullanılan Teknolojiler
+🛠️ Kullanılan Teknolojiler
 
 | Katman | Teknolojiler |
 |---|---|
@@ -103,7 +103,7 @@ Bazı gelişmiş sistemler UI/UX olarak tasarlanmış ancak proje süresi nedeni
 
 ---
 
-# 🤖 Kullanılan Yapay Zeka Araçları
+🤖 Kullanılan Yapay Zeka Araçları
 
 | Yapay Zeka Aracı | Versiyon | Kullanım Amacı |
 |---|---|---|
@@ -122,7 +122,7 @@ amaçlarıyla kullanılmıştır.
 
 ---
 
-# 🏗️ Yazılım Mimarisi
+🏗️ Yazılım Mimarisi
 
 ## Sistem Mimarisi
 
@@ -138,7 +138,7 @@ PostgreSQL Database
 
 ---
 
-# 🧩 Frontend Mimarisi
+🧩 Frontend Mimarisi
 
 - Component tabanlı React yapısı
 - Sayfa bazlı routing sistemi
@@ -147,7 +147,7 @@ PostgreSQL Database
 
 ---
 
-# ⚙️ Backend Mimarisi
+⚙️ Backend Mimarisi
 
 - REST API yapısı
 - Express.js server mimarisi
@@ -168,9 +168,10 @@ ModaMatch
  │     └── package.json
  │
  └── modamatch-backend
-       ├── server.js
+       ├── node_modules
+       ├── package-lock.json
        ├── package.json
-       └── database
+       └── server.js
 ```
 
 ---
@@ -275,7 +276,7 @@ hedeflenmiştir.
 
 ---
 
-📚  Proje Uyumluluğu
+📚 Proje Uyumluluğu
 
 | Kriter | Açıklama |
 |---|---|
@@ -300,7 +301,6 @@ uygulanmıştır.
 
 Kod düzeni ve okunabilirliği için:
 
-- ESLint
 - Modüler yapı
 - Tekrar kullanılabilir component sistemi
 
@@ -329,7 +329,7 @@ eklenmesi planlanmaktadır.
 
 ---
 
-🧠 Yapay Zeka Araştırmaları
+# 🧠 Yapay Zeka Araştırmaları
 
 Proje geliştirme sürecinde:
 
@@ -347,6 +347,8 @@ Bu sistemler gelecekte:
 
 gibi özelliklerde kullanılabilecek altyapılar olarak değerlendirilmiştir.
 
+---
+
 # 🚀 Geliştirme Yol Haritası
 
 ```txt
@@ -362,10 +364,12 @@ gibi özelliklerde kullanılabilecek altyapılar olarak değerlendirilmiştir.
 ⬜ Mobil Uygulama
 ```
 
-👩‍💻 Geliştiriciler
+---
 
-Ayşe Rümeysa Özçelik
- Melike Bayer
+# 👩‍💻 Geliştiriciler
+
+## Ayşe Rümeysa Özçelik  
+## Melike Bayer
 
 ---
 
