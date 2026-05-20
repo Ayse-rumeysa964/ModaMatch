@@ -275,7 +275,7 @@ hedeflenmiştir.
 
 ---
 
-# 📚 Ders Kriterleri ve Proje Uyumluluğu
+📚  Proje Uyumluluğu
 
 | Kriter | Açıklama |
 |---|---|
