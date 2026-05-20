@@ -3,189 +3,156 @@ Yapay Zeka Destekli Terzi ve Moda Platformu
 
 👗 “Tarzını Tasarla, En Doğru Ustayla Buluş.” ✂️
 
+---
 
-# 📌 Proje Hakkında
+📌 Proje Hakkında
 
-ModaMatch, kullanıcıların kendilerine en uygun terzi, butik ve moda tasarımcılarını keşfetmesini sağlayan modern bir full-stack moda platformudur.
+ModaMatch, kullanıcıları terziler, butik işletmeleri ve moda tasarımcıları ile buluşturmayı amaçlayan modern bir full-stack moda platformudur.
 
 Projenin temel amacı:
 
-- Kullanıcıları doğru terzi ile buluşturmak
-- Küçük işletmeleri dijital ortama taşımak
-- Kullanıcıların ölçülerine uygun kıyafetlere daha kolay ulaşmasını sağlamak
+- Yerel terzileri dijital ortama taşımak
+- Kullanıcıların kendilerine uygun terzilere ulaşmasını kolaylaştırmak
 - Modern ve kullanıcı dostu bir moda deneyimi sunmak
+- Yapay zeka destekli sistemler için altyapı oluşturmak
 
-Bu platform sayesinde kullanıcılar:
+Kullanıcılar sistem üzerinden:
 
 ✅ Terzi keşfedebilir  
-✅ Yakındaki terzileri görüntüleyebilir  
-✅ Terzi detaylarını inceleyebilir  
-✅ Randevu oluşturabilir  
+✅ Terzi detaylarını görüntüleyebilir  
 ✅ Favorilere ekleme yapabilir  
-✅ Mesajlaşabilir  
-✅ Moda tasarımcılarını inceleyebilir  
+✅ Mesaj gönderebilir  
+✅ Randevu oluşturabilir  
+✅ Profil bilgilerini yönetebilir  
 
 ---
 
-# 🧠 Projenin Ortaya Çıkış Hikayesi
+🎯 Projenin Amacı
 
-ModaMatch fikri ilk olarak:
+ModaMatch projesi:
+
+- Terzi ve kullanıcı iletişimini dijitalleştirmeyi
+- Küçük işletmeleri desteklemeyi
+- Kullanıcı deneyimini geliştirmeyi
+- Responsive ve modern bir platform oluşturmayı
+- Gelecekte AI destekli moda sistemleri geliştirmeyi
+
+amaçlamaktadır.
+
+---
+
+# 🧠 Proje Fikri ve Tasarım Süreci
+
+ModaMatch fikri:
 
 > “Tarzını Tasarla, En Doğru Ustayla Buluş.”
 
-sloganı ile geliştirilmiştir.
+sloganı ile ortaya çıkmıştır.
 
-Projenin ilk fikir aşamasında:
+Projenin ilk tasarım sürecinde aşağıdaki sistemler planlanmıştır:
 
-- Kullanıcının konumuna göre yakın terzileri görüntüleyebilmesi
-- Kullanıcının istediği kıyafetin fotoğrafını yükleyebilmesi
-- Ölçüye uygun kıyafet önerileri alabilmesi
-- Yapay zeka destekli moda önerileri sunulması
-- Terzi ve kullanıcı arasında mesajlaşma sistemi kurulması
+- Yakındaki terziler sistemi
+- AI destekli moda önerileri
+- Kullanıcı-terzi mesajlaşması
+- Akıllı randevu sistemi
+- Fotoğraf ile kıyafet analizi
+- Kişisel stil önerileri
 
-hedeflenmiştir.
-
-Bu fikir doğrultusunda modern UI tasarımları hazırlanmış ve proje geliştirme süreci başlatılmıştır.
-
----
-
-# 🎯 Projenin Amacı
-
-ModaMatch;
-
-küçük işletmeleri desteklemeyi, kullanıcıların kendilerine uygun moda hizmetlerine kolay erişmesini sağlamayı ve gelecekte yapay zeka destekli kişisel moda deneyimi sunmayı hedefleyen modern bir platformdur.
-
-Aynı zamanda:
-
-- Terzi bulmayı kolaylaştırmak
-- Kullanıcı deneyimini geliştirmek
-- Özel dikim süreçlerini dijitalleştirmek
-- Moda sektörünü dijital platforma taşımak
-
-amaçlanmıştır.
+Bazı gelişmiş sistemler UI/UX olarak tasarlanmış ancak proje süresi nedeniyle tam entegre edilememiştir.
 
 ---
 
 # 🚀 Gerçekleştirilen Özellikler
 
-## 🔐 Authentication Sistemi
-- Kullanıcı kayıt sistemi
-- Kullanıcı giriş sistemi
-- Session yönetimi
-
----
-
-## 👗 Terzi Listeleme Sistemi
-- Terzi kartları
-- Önerilen terziler
-- Responsive yapı
-- Terzi profil yapısı
-
----
-
-## ❤️ Favoriler Sistemi
-- Favorilere ekleme
-- Favorilerden çıkarma
-
----
-
-## 💬 Mesajlaşma Sistemi
-- Kullanıcı mesajlaşma arayüzü
-- Mesaj ekranı yapısı
-- Terzi-kullanıcı iletişimi
-
----
-
-## 📅 Randevu Sistemi
-- Randevu alma sistemi
-- Randevu butonları
-- Randevu ekranı tasarımı
-
----
-
-## 📱 Responsive Tasarım
-- Mobil uyumlu yapı
-- Tablet uyumlu yapı
-- Desktop uyumluluğu
-
----
-
-# 🖼️ Tasarlanan Arayüzler
-
-Proje için modern UI/UX tasarımları hazırlanmıştır.
-
-Hazırlanan tasarımlar:
-
-- Register ekranı
-- Ana sayfa tasarımı
-- Mesajlaşma ekranı
-- Yakındaki terziler ekranı
-- Terzi detay ekranı
-- Yapay zeka destekli moda platformu ekranı
-
-şeklindedir.
+| Özellik | Açıklama |
+|---|---|
+| Authentication Sistemi | Kullanıcı kayıt ve giriş sistemi |
+| Terzi Listeleme | Terzi kartları ve detay ekranları |
+| Favoriler Sistemi | Favorilere ekleme ve çıkarma |
+| Mesajlaşma Sistemi | Kullanıcı-terzi iletişimi |
+| Randevu Sistemi | Tarih ve saat seçimi |
+| Responsive Tasarım | Mobil, tablet ve desktop uyumluluğu |
 
 ---
 
 # ⚠️ Planlanan Ancak Tamamlanamayan Özellikler
 
-Ders süresi ve zaman kısıtları nedeniyle bazı özellikler tam olarak projeye entegre edilememiştir.
-
-Planlanan ancak tamamlanamayan özellikler:
-
-- Gerçek yapay zeka entegrasyonu
-- Fotoğraf yükleyerek kıyafet analizi
-- Gerçek zamanlı canlı mesajlaşma
-- Harita API entegrasyonu
-- Yapay zeka destekli kombin önerileri
-- Ölçü analizi sistemi
-- Ödeme sistemi
-- Bildirim sistemi
-- JWT Authentication
-- Gelişmiş filtreleme sistemi
-
-Ancak bu özellikler için UI tasarımları hazırlanmış ve sistem altyapısı planlanmıştır.
+| Planlanan Özellik | Durum |
+|---|---|
+| AI öneri sistemi | Tasarlandı ancak entegre edilmedi |
+| Gerçek zamanlı chat | Planlandı |
+| Harita API sistemi | UI tasarlandı |
+| JWT Authentication | Planlandı |
+| Bildirim sistemi | Planlandı |
+| Ödeme sistemi | Planlandı |
+| Ölçü analizi sistemi | Fikir aşamasında |
+| Fotoğraf ile kıyafet analizi | UI tasarlandı |
 
 ---
 
-# 🛠 Kullanılan Teknolojiler
+# 🛠️ Kullanılan Teknolojiler
 
-## Frontend
-- React.js
-- Vite
-- CSS3
-- React Router DOM
-
----
-
-## Backend
-- Node.js
-- Express.js
-
----
-
-## Database
-- PostgreSQL
+| Katman | Teknolojiler |
+|---|---|
+| Frontend | React.js, Vite, CSS3, React Router DOM |
+| Backend | Node.js, Express.js |
+| Veritabanı | PostgreSQL |
+| Geliştirme Araçları | VS Code, Git, GitHub, Postman |
+| Paket Yönetimi | npm |
+| API Testi | Postman |
 
 ---
 
 # 🤖 Kullanılan Yapay Zeka Araçları
 
-Proje geliştirme sürecinde aşağıdaki yapay zeka araçlarından destek alınmıştır:
+| Yapay Zeka Aracı | Versiyon | Kullanım Amacı |
+|---|---|---|
+| ChatGPT | GPT-5.5 | Kod geliştirme, hata çözme, responsive yapı |
+| Gemini | Gemini 3.1 | UI/UX fikirleri ve proje planlama |
 
-- ChatGPT
-- Gemini
-- Yapay zeka destekli UI üretim araçları
+Yapay zeka araçları:
 
-Bu araçlar:
-
-- UI tasarımı oluşturma
-- Kod geliştirme
-- Responsive yapı kurma
+- Kod geliştirme desteği
+- Responsive tasarım önerileri
+- UI/UX fikirleri
 - Hata çözme
-- Fikir üretme
+- Sistem planlama
 
 amaçlarıyla kullanılmıştır.
+
+---
+
+# 🏗️ Yazılım Mimarisi
+
+## Sistem Mimarisi
+
+```txt
+Kullanıcı
+   ↓
+React Frontend
+   ↓
+Express.js API
+   ↓
+PostgreSQL Database
+```
+
+---
+
+# 🧩 Frontend Mimarisi
+
+- Component tabanlı React yapısı
+- Sayfa bazlı routing sistemi
+- Responsive layout mimarisi
+- Tekrar kullanılabilir component yapısı
+
+---
+
+# ⚙️ Backend Mimarisi
+
+- REST API yapısı
+- Express.js server mimarisi
+- PostgreSQL bağlantısı
+- Endpoint tabanlı request yönetimi
 
 ---
 
@@ -196,6 +163,8 @@ ModaMatch
  ├── modamatch-frontend
  │     ├── src
  │     ├── public
+ │     ├── components
+ │     ├── pages
  │     └── package.json
  │
  └── modamatch-backend
@@ -284,86 +253,61 @@ const pool = new Pool({
 
 ---
 
+# 🖼️ Kullanıcı Arayüzü Tasarımları
+
+Proje geliştirme sürecinde aşağıdaki arayüzler tasarlanmıştır:
+
+- Login & Register ekranları
+- Mesajlaşma ekranı
+- Yakındaki terziler ekranı
+- Moda keşfetme ekranları
+- Terzi detay ekranları
+- Randevu ekranları
+
+Tasarım sürecinde:
+
+✅ modern görünüm  
+✅ responsive yapı  
+✅ kullanıcı dostu navigasyon  
+✅ erişilebilirlik  
+
+hedeflenmiştir.
+
+---
+
 # 📚 Ders Kriterleri ve Proje Uyumluluğu
 
-## ✅ Takım
-
-Proje bireysel olarak geliştirilmiştir.
-
----
-
-## ✅ Dil Modeli Kullanımı
-
-Projede:
-
-- ChatGPT
-- Gemini
-
-gibi yapay zeka dil modellerinden destek alınmıştır.
+| Kriter | Açıklama |
+|---|---|
+| Takım | Bireysel proje |
+| Dil Modeli Kullanımı | ChatGPT ve Gemini kullanılmıştır |
+| Teknik Değerlendirme | Component tabanlı yapı ve temiz UI mimarisi uygulanmıştır |
+| Dokümantasyon | Detaylı README dokümantasyonu hazırlanmıştır |
+| Veritabanı Kullanımı | PostgreSQL kullanılmıştır |
+| Sunum | Proje sunumu hazırlanmıştır |
+| Teslim Tarihi | Final teslimine uygun hazırlanmıştır |
 
 ---
 
-## ✅ Teknik Değerlendirme
+# 🧼 Yazılım Geliştirme Yaklaşımları
 
 Projede:
 
-- Component bazlı yapı
-- Responsive tasarım
+- Component tabanlı mimari
 - Temiz kod yaklaşımı
-- Tekrar kullanılabilir component yapısı
+- Responsive tasarım prensipleri
+- Frontend/backend ayrımı
+- Düzenli klasör yapısı
 
 uygulanmıştır.
 
-Frontend ve backend yapısı ayrı geliştirilmiştir.
+Kod düzeni ve okunabilirliği için:
 
----
+- ESLint
+- Modüler yapı
+- Tekrar kullanılabilir component sistemi
 
-## ✅ Veritabanı Kullanımı
-
-Projede PostgreSQL veritabanı kullanılmıştır.
-
----
-
-## ✅ Dokümantasyon
-
-Proje için detaylı README dokümantasyonu hazırlanmıştır.
-
----
-
-## ✅ Sunum
-
-Proje sunumu hazırlanmış olup proje çalışma mantığı ve sistem yapısı açıklanacaktır.
-
----
-
-# 🧠 Yapay Zeka ve RAG Yaklaşımları
-
-Proje geliştirme sürecinde:
-
-- Yapay zeka sistemleri
-- öneri sistemleri
-- kullanıcı eşleştirme sistemleri
-- veri ilişkileri
-- AI destekli platform yapıları
-
-araştırılmıştır.
-
-Özellikle:
-
-- Klasik RAG
-- Graph RAG
-- Knowledge Graph
-
-yaklaşımları incelenmiştir.
-
-Bu mimariler gelecekte:
-
-- kullanıcı-terzi eşleştirme
-- stil öneri sistemi
-- akıllı moda önerileri
-- kişisel moda asistanı
-
-özelliklerinde kullanılabilecek sistemler olarak değerlendirilmiştir.
+kullanılmıştır.
 
 ---
 
@@ -371,12 +315,12 @@ Bu mimariler gelecekte:
 
 Proje geliştirme sürecinde:
 
-- Hassas bilgilerin paylaşılmaması
+- Hassas bilgilerin korunması
 - SQL Injection riskleri
 - Güvenli kullanıcı işlemleri
-- Clean Code yaklaşımı
+- Hardcoded şifrelerden kaçınma
 
-dikkate alınmıştır.
+konularına dikkat edilmiştir.
 
 Gelecek sürümlerde:
 
@@ -388,44 +332,73 @@ eklenmesi planlanmaktadır.
 
 ---
 
-# 🧼 Yazılım Geliştirme Yaklaşımları
+# 🧠 Yapay Zeka ve RAG Araştırmaları
 
-Projede:
+Proje geliştirme sürecinde:
 
-- Component bazlı mimari
-- Responsive UI prensipleri
-- Sayfa bazlı yapı
-- Tekrar kullanılabilir component mantığı
+- Yapay zeka destekli sistemler
+- öneri sistemleri
+- kullanıcı eşleştirme sistemleri
+- modern AI mimarileri
 
-uygulanmıştır.
+üzerine araştırmalar yapılmıştır.
 
-Kod kalitesini artırmak için:
+İncelenen kavramlar:
 
-- ESLint
-- Düzenli component yapısı
-- Temiz kod yaklaşımı
+| Kavram | Açıklama |
+|---|---|
+| Classical RAG | Anlamsal benzerlik tabanlı retrieval sistemi |
+| Graph RAG | İlişkisel veri yapısı ile retrieval sistemi |
+| Knowledge Graph | Veri ilişkilerini düğümler üzerinden modelleme sistemi |
 
-kullanılmıştır.
+Bu sistemler gelecekte:
 
----
+- akıllı terzi önerileri
+- kişisel stil analizi
+- moda asistanı sistemleri
 
-# 🚀 Gelecekte Eklenmesi Planlanan Özellikler
-
-- Yapay zeka destekli öneri sistemi
-- Gerçek zamanlı sohbet sistemi
-- Mobil uygulama
-- Bildirim sistemi
-- Ödeme sistemi
-- Ölçü analizi sistemi
-- AI kombin önerileri
-- Harita API entegrasyonu
-- Admin paneli
+için kullanılabilecek altyapılar olarak değerlendirilmiştir.
 
 ---
 
+# 🚀 Geliştirme Yol Haritası
 
-# 👩‍💻 Geliştirici
- Melike Bayer
- Ayşe Rümeysa Özçelik
+```txt
+✅ Authentication Sistemi
+✅ Responsive UI
+✅ PostgreSQL Entegrasyonu
+✅ Mesajlaşma Arayüzü
+✅ Randevu Sistemi
+⬜ JWT Authentication
+⬜ Gerçek Zamanlı Chat
+⬜ AI Öneri Sistemi
+⬜ Harita API Entegrasyonu
+⬜ Mobil Uygulama
+```
+
+---
+
+# 🎥 Proje Sunumu
+
+Proje kapsamında:
+
+- UI/UX sunumu
+- Sistem mimarisi anlatımı
+- Full-stack çalışma yapısı
+- Özellik tanıtımları
+
+hazırlanmıştır.
+
+---
+
+👩‍💻 Geliştirici
+
+Ayşe Rümeysa Özçelik
+Melike Bayer
 
 
+---
+
+# 📄 Lisans
+
+Bu proje eğitim amaçlı geliştirilmiştir.
