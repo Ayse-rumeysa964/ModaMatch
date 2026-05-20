@@ -1,5 +1,5 @@
 ✨ ModaMatch
-Yapay Zeka Destekli Terzi ve Moda Platformu
+ Terzi ve Moda Platformu
 
 👗 “Tarzını Tasarla, En Doğru Ustayla Buluş.” ✂️
 
